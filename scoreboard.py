@@ -13,7 +13,7 @@ class ScoreBoard(Turtle):
         self.update_scoreboard()
 
     def update_scoreboard(self):
-        self.goto(0, 200)
+        self.goto(0, 220)
         self.write(f"BREAK OUT               Score: {self.score}", align="center", font=("Courier", 40, "normal"))
 
     def update_point(self):
