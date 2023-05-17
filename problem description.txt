@@ -1,0 +1,15 @@
+Break Out Game
+
+1. set up the screen
+2. create & arrange colorful bricks
+3. create the paddle
+4. create and move the ball
+5. detect ball collision with bricks & bounce
+6. detect ball collision with side walls & bounce
+7. detect paddle miss the ball
+8. update score board
+
+
+Bugs to address:
+- the ball doesn't bounce when hitting the extremes of the paddle
+- from the second game onwards the ball keeps moving upwards
